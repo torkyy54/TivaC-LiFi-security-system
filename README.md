@@ -43,3 +43,9 @@ Before running the system, make sure you have the following:
 1. Clone this repository:
    ```bash
    git clone https://github.com/torkyy54/TivaC-LiFi-security-system.git
+
+## Demo Video 🎥
+
+Watch the demo of the Home Hazard Detection System:
+
+[Watch Demo Video](https://drive.google.com/drive/folders/1lMh-WcJdCRjrx2yTkbgSe_KvFn-WjNP5?usp=drive_link)
